@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status@GitHub](https://github.com/OpenSIPS/opensips/workflows/Main%20CI/badge.svg?branch=master)](https://github.com/OpenSIPS/opensips/actions?query=branch%3Amaster++)
 [![Build Status@TravisCI](https://travis-ci.com/OpenSIPS/opensips.svg?branch=master)](https://travis-ci.com/OpenSIPS/opensips)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/7580/badge.svg)](https://scan.coverity.com/projects/opensips-opensips)
@@ -61,3 +62,6 @@ Also there is a generic news mailing list where you can learn about what is·
 new or important for the OpenSIPS project, about alerts and updates regarding
 relaces and about events around the project.
            <news@lists.opensips.org>
+=======
+# OpenSIPS-Lear
+>>>>>>> 98d2432a083aa29f58b497e304e47fe56b151fc0
