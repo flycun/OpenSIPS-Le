@@ -5,6 +5,7 @@
 *.sw?
 tags
 cscope*
+.vscode
 
 # /
 /cfg.tab.c
